@@ -1,6 +1,9 @@
 #include <stdio.h>
 
-int main() {
+int main()
+{
     printf("Hell ascnnasjco, World!\n");
     return 0;
+    shit ajksnff
+        asfkaf asf
 }
